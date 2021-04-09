@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login test case</description>
+   <name>Login (Rina.winarti)</name>
+   <tag></tag>
+   <comment>Proses Login
+Jika username atau password salah
+Username dan Password sdh Sesuai</comment>
+   <testCaseGuid>826da92a-5a2a-4fe5-a67a-3aed9346d3a1</testCaseGuid>
+</TestCaseEntity>

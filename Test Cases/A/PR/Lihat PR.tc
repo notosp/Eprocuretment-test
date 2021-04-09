@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Lihat PR</name>
+   <tag></tag>
+   <comment>Form Purchase Request
+Tambah Daftar Barang</comment>
+   <testCaseGuid>938c516a-ef99-4587-9b60-a36c6f004a94</testCaseGuid>
+</TestCaseEntity>
